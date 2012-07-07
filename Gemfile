@@ -1,0 +1,5 @@
+gem 'rubygems'
+gem 'hpricot'
+gem 'open-uri'
+gem 'fileutils'
+gem 'iconv'
